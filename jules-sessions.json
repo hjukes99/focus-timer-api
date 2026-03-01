@@ -126,6 +126,14 @@
       "createdAt": "2026-03-01T11:50:00-06:00",
       "status": "CreateFailed",
       "error": "repo does not exist on GitHub or is not connected to Jules"
+    },
+    {
+      "id": "N/A",
+      "repo": "hjukes99/focus-timer-api",
+      "task": "Codex Lab: Focus Timer API \u2014 complete TODO item 'Build minimal HTTP server with GET /health and JSON middleware helpers.' and keep tests passing.",
+      "createdAt": "2026-03-01T13:30:00-06:00",
+      "status": "CreateFailed",
+      "error": "the repo hjukes99/focus-timer-api either doesn't exist on GitHub or is not connected to Jules"
     }
   ]
 }
