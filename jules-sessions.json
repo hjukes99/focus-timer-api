@@ -2,8 +2,40 @@
   {
     "id": "17019797913380039203",
     "repo": "hjukes99/Heath",
-    "task": "Codex Lab: Focus Timer API — implement top 3 TODO items from TODO.md and keep tests passing.",
+    "task": "Codex Lab: Focus Timer API \u2014 implement top 3 TODO items from TODO.md and keep tests passing.",
     "createdAt": "2026-02-28T14:20:00-06:00",
     "status": "Planning"
+  },
+  {
+    "id": "N/A",
+    "repo": "hjukes99/focus-timer-api",
+    "task": "Codex Lab: Focus Timer API \u2014 complete TODO item #1 and keep tests passing.",
+    "createdAt": "2026-02-28T17:54:00-06:00",
+    "status": "CreateFailed",
+    "error": "repo does not exist on GitHub or is not connected to Jules"
+  },
+  {
+    "id": "N/A",
+    "repo": "hjukes99/focus-timer-api",
+    "task": "Codex Lab: Focus Timer API \u2014 complete TODO item 'Build minimal HTTP server with GET /health and JSON middleware helpers.' and keep tests passing.",
+    "createdAt": "2026-02-28T18:51:00-06:00",
+    "status": "CreateFailed",
+    "error": "repo does not exist on GitHub or is not connected to Jules"
+  },
+  {
+    "id": "N/A",
+    "repo": "hjukes99/focus-timer-api",
+    "task": "Codex Lab: Focus Timer API \u2014 complete TODO item 'Build minimal HTTP server with GET /health and JSON middleware helpers.' and keep tests passing.",
+    "createdAt": "2026-02-28T19:50:00-06:00",
+    "status": "CreateFailed",
+    "error": "the repo hjukes99/focus-timer-api either doesn't exist on GitHub or is not connected to Jules"
+  },
+  {
+    "id": "N/A",
+    "repo": "hjukes99/focus-timer-api",
+    "task": "Codex Lab: Focus Timer API \u2014 complete TODO item 'Build minimal HTTP server with GET /health and JSON middleware helpers.' and keep tests passing.",
+    "createdAt": "2026-02-28T21:52:00-06:00",
+    "status": "CreateFailed",
+    "error": "the repo hjukes99/focus-timer-api either doesn't exist on GitHub or is not connected to Jules"
   }
 ]

@@ -14,3 +14,37 @@
 - Expected GitHub repo: `hjukes99/focus-timer-api` (never `hjukes99/Heath`).
 - Error: Not a git repository / missing origin remote in app directory.
 - Action: Stopped work on this app per guardrail; moved to next app.
+
+## 2026-02-28 16:51 CST
+- Orchestrator: checked Jules sessions for `hjukes99/focus-timer-api` (Completed/In Progress/Awaiting User F/Planning).
+- No Completed session pending apply for this repo.
+- Attempted focused session creation for top TODO item.
+- Error: `jules remote new --repo hjukes99/focus-timer-api ...` failed: repo does not exist on GitHub or is not connected to Jules.
+- Action: stopped work on this app for this run per guardrail.
+
+
+## 2026-02-28 17:53 
+- Checked Jules sessions for repo `hjukes99/focus-timer-api`: no Completed session available to apply.
+- Attempted focused delegation from TODO item #1 using `jules remote new --repo hjukes99/focus-timer-api --session "Codex Lab: Focus Timer API — complete TODO item 'Build minimal HTTP server with GET /health and JSON middleware helpers.' and keep tests passing."`.
+- Error: repo does not exist on GitHub or is not connected to Jules.
+- Action: stopped work on this app for this run per guardrail.
+
+
+## 2026-02-28 18:51 CST
+- Checked Jules sessions for repo `hjukes99/focus-timer-api`: no Completed session available to apply.
+- Attempted focused delegation for TODO item #1 via `jules remote new --repo hjukes99/focus-timer-api ...`.
+- Error: repo does not exist on GitHub or is not connected to Jules.
+- Action: stopped work on this app for this run per guardrail.
+
+## 2026-02-28 19:50 CST
+- Checked Jules sessions for repo `hjukes99/focus-timer-api`: no Completed session available to apply.
+- Attempted focused delegation for TODO item #1 via `jules remote new --repo hjukes99/focus-timer-api --session "Codex Lab: Focus Timer API — complete TODO item 'Build minimal HTTP server with GET /health and JSON middleware helpers.' and keep tests passing."`.
+- Error: `the repo hjukes99/focus-timer-api either doesn't exist on GitHub or is not connected to Jules`.
+- Action: stopped work on this app for this run per guardrail.
+- 2026-02-28 20:52:41 CST | ERROR: invalid repo origin ''
+
+## 2026-02-28 21:52 CST
+- Checked Jules sessions for repo `hjukes99/focus-timer-api`: no Completed session available to apply.
+- Attempted focused delegation for TODO item #1 via `jules remote new --repo hjukes99/focus-timer-api --session "Codex Lab: Focus Timer API — complete TODO item 'Build minimal HTTP server with GET /health and JSON middleware helpers.' and keep tests passing."`.
+- Error: `the repo hjukes99/focus-timer-api either doesn't exist on GitHub or is not connected to Jules`.
+- Action: stopped work on this app for this run per guardrail.
